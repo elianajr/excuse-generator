@@ -1,3 +1,3 @@
 # excuse-generator
 
-peimer repositorio de JS 
+primer repositorio de JS 
